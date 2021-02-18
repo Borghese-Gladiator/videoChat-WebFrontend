@@ -1,5 +1,7 @@
 # Video Chat Application
-* Deployed at https://desolate-depths-86299.herokuapp.com/
+see tutorial here: [https://dev.to/nilmadhabmondal/let-s-build-a-video-chat-app-with-javascript-and-webrtc-380b](https://dev.to/nilmadhabmondal/let-s-build-a-video-chat-app-with-javascript-and-webrtc-380b)
+
+I deployed onto Heroku here: [link](https://github.com/webtutsplus/videoChat-WebFrontend)
 * Only two persons can join in one room
 ## Running the app on development server
 * `npm install`
